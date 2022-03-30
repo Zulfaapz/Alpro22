@@ -12,7 +12,7 @@ using namespace std;
 	int subtotal;
 };
 restoran::restoran(){
-	cout<<"===========================================================<<endl;
-	cout<<"               PROGRAM RUMAH MAKAN DELIVERY                 "<<endl;
-	cout<<"===========================================================<<endl;
+	cout<<"==========================================================="<<endl;
+	cout<<"               PROGRAM RUMAH MAKAN DELIVERY                "<<endl;
+	cout<<"==========================================================="<<endl;
 	
